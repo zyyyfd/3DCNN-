@@ -14,6 +14,6 @@ pip install -r requirements.txt
 本实验采用了自制数据集，如果想通过同样的方式制作数据集我们把函数放在了``data_pre-processing.py``当中。
 
 ### Model Structure
- ![img]（https://github.com/zyyyfd/3DCNN-/blob/main/png.png）
+ ![img] (image/png.png)
 
   
