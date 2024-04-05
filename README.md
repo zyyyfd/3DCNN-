@@ -35,6 +35,12 @@ git lfs install
 git lfs clone https://github.com/zyyyfd/CCMMOE.git
 ```
 
+Decompressing data set
+```
+cd data
+unzip cifs.zip
+```
+
 Install dependencies:
 ```
 pip install -r requirements.txt
